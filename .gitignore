@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Data
+data/faiss_index.bin
+data/metadata.pkl
+data/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
